@@ -1,2 +1,8 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+# Giữ tất cả tệp trong kho với LF
+* text eol=lf
+
+# Đặt các tệp meta luôn dùng LF
+*.meta text eol=lf
+
+# Đặt các tệp prefab luôn dùng LF
+*.prefab text eol=lf
