@@ -1,8 +1,7 @@
 # Giữ tất cả tệp trong kho với LF
 * text eol=lf
-
 # Đặt các tệp meta luôn dùng LF
 *.meta text eol=lf
-
 # Đặt các tệp prefab luôn dùng LF
 *.prefab text eol=lf
+Assets/** filter=lfs diff=lfs merge=lfs -text
