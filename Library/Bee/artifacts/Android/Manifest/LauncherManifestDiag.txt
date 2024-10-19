@@ -1,0 +1,2 @@
+Using template 'D:/Unity/Editor/2021.3.40f1/Editor/Data/PlaybackEngines/AndroidPlayer\Apk\LauncherManifest.xml'
+
