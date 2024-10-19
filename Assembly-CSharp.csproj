@@ -1112,10 +1112,6 @@
       <Project>{CD23EF48-73BD-8DB8-9266-74A2544AFF2C}</Project>
       <Name>Unity.TextMeshPro</Name>
     </ProjectReference>
-    <ProjectReference Include="Unity.XR.Management.Samples.Editor.csproj">
-      <Project>{C4DBF255-8B92-D84A-00EB-60BF72853696}</Project>
-      <Name>Unity.XR.Management.Samples.Editor</Name>
-    </ProjectReference>
     <ProjectReference Include="Unity.VisualScripting.Core.Editor.csproj">
       <Project>{2398772F-3FC7-7585-C8C5-9C2CBAFC8271}</Project>
       <Name>Unity.VisualScripting.Core.Editor</Name>
@@ -1187,10 +1183,6 @@
     <ProjectReference Include="UnityEditor.XR.LegacyInputHelpers.csproj">
       <Project>{E6561330-1361-4D27-976C-998E05B6574C}</Project>
       <Name>UnityEditor.XR.LegacyInputHelpers</Name>
-    </ProjectReference>
-    <ProjectReference Include="Unity.XR.Management.Samples.csproj">
-      <Project>{B2A48070-6322-EF83-159F-E5F0C9795803}</Project>
-      <Name>Unity.XR.Management.Samples</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.XR.OpenXR.csproj">
       <Project>{AE635E79-A13F-C11F-42B0-EE82A41D60C0}</Project>
